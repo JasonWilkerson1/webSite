@@ -1,0 +1,33 @@
+.jason-wilkerson-page {
+    color: #FFFDD0;
+    background-color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .jason-wilkerson-page h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  .jason-wilkerson-page .profile-photo {
+    width: 150px; /* Adjust size as needed */
+    height: auto;
+    margin-top: 20px;
+}
+
+.social-links {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Space between icons */
+}
+
+.social-links a {
+    display: inline-block;
+}
+
+.social-links img {
+    width: 30px; /* Adjust icon size as needed */
+    height: auto;
+}
